@@ -1,5 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api?username=loganbates2002&hide=stars&count_private=true&show_icons=true&title_color=084451&icon_color=062664&text_color=306162&hide_border=true&custom_title=S͟t͟a͟t͟i͟s͟t͟i͟c͟s͟______________________________ ☃&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=loganbates2002&hide=stars&count_private=true&show_icons=true&title_color=084451&icon_color=062664&text_color=306162&hide_border=true&custom_title=S͟t͟a͟t͟i͟s͟t͟i͟c͟s͟______________________________&include_all_commits=true)
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=loganbates2002&layout=compact&hide_title=true&card_width=1000&hide_border=true)](https://github.com/loganbates2002/github-readme-stats)
