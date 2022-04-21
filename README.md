@@ -1,3 +1,14 @@
+<h2>About Me</h2>
+<p>
+  I am a software engineer, learning cutting edge industry technologies, frameworks, and techniques. I have over three years of software experience--spanning self taught, university study, and internships. Currently, I am looking to excel in an entry level front-end/full-stack developer position. Ultimately, my goal is to improve the world through technological solutions stemming from my individual talent and vision.
+
+Programming Languages:  Javascript, Python, HTML, CSS, C++, C#
+
+Tools: Node.js, MongoDB, Meteor, Unity, Excel, Terminal
+
+Currently Learning: ReactJS, MongoDB, Java
+
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=loganbates2002&hide=stars&count_private=true&show_icons=true&title_color=084451&icon_color=062664&text_color=306162&hide_border=true&custom_title=S͟t͟a͟t͟i͟s͟t͟i͟c͟s͟______________________________&include_all_commits=true)
 
