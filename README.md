@@ -4,7 +4,7 @@
 
 Programming Languages:  Javascript, Python, React, HTML, CSS, C++, C#
 
-Tools: Node.js, MongoDB, Meteor, Unity, Excel, Terminal
+Tools: Node.js, AWS, MongoDB, Meteor, Unity, Excel, Terminal
 
 Currently Learning: ReactJS, MongoDB, Java
 
