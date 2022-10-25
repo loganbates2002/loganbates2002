@@ -1,12 +1,12 @@
 <h2>About Me</h2>
 <p>
-  I am a software engineer, learning cutting edge industry technologies, frameworks, and techniques. I have over three years of software experience--spanning self taught, university study, and internships. Currently, I am looking to excel in an entry level front-end/full-stack developer position. Ultimately, my goal is to improve the world through technological solutions stemming from my individual talent and vision.
+  Hi! I am a student software developer with over three years of software experience spanning self taught, university study, and internships. Currently, I am pursuing degree in Computer Science at Cabrillo College, with plans to transfer to a 4 year university to obtain a Bachelors Degree. Ultimately, my goal is to improve the world through technological solutions stemming from my individual talent and vision. I am incredibly passionate about conservation and sustainability, especially when it comes to the protection of animal and plant life.
 
-Programming Languages:  Javascript, Python, React, HTML, CSS, C++, C#
+Programming Languages: Javascript, Python, React, HTML, CSS, C++, C#
 
-Tools: Node.js, AWS, MongoDB, Meteor, Unity, Excel, Terminal
+Tools: Github, Material UI, Flask, AWS, Node.js, MongoDB, Meteor, Unity, Excel, Terminal
 
-Currently Learning: ReactJS, MongoDB, Java
+Currently Learning: ReactJS, MongoDB, Java, MIPS
 
 </p>
 
